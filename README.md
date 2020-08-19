@@ -1,9 +1,11 @@
 # Kit UI
 
-Kit UI for Eventbrite using bootstrap
+Kit UI for Eventbrite using [Bootswatch Material](https://bootswatch.com/materia/)
 
-Demo en ligne [https://adev42.com/kit-ui](https://adev42.com/kit-ui)
+Check out this demo en ligne [https://adev42.com/kit-ui](https://adev42.com/kit-ui)
 
+
+---
 <strong>
   
 Désolé mes correcteurs xD, 
